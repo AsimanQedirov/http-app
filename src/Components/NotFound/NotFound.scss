@@ -1,0 +1,30 @@
+.notFound{
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+        .gif{
+            width: 200px;
+            height: 100px;
+            background: url('../../images/404.gif') center no-repeat contain;
+            background-image: url('../../images/404.gif');
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        button{
+            background: rgb(38, 187, 38);
+            color: white;
+            border: none;
+            padding: 8px 3rem;
+            border-radius: 4px;
+            a{
+                color: white;
+                text-decoration: none;
+
+            }
+        }
+}

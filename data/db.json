@@ -1,0 +1,57 @@
+{
+    "slider": [
+        {
+            "id": 1,
+            "image": "https://wallpaperaccess.com/full/268363.jpg"
+        },
+        {
+            "id": 2,
+            "image": "https://i.gadgets360cdn.com/large/work_from_home_main_pixabay_1584345034343.jpg"
+        },
+        {
+            "id": 3,
+            "image": "https://images.unsplash.com/photo-1579256945823-f007794790df?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8ZW1wbG95ZWV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+        },
+        {
+            "id": 4,
+            "image": "https://miro.medium.com/max/3840/1*rQchO02QA8d8t0NnpDHC8Q.png"
+        }
+    ],
+    "cards": [
+        {
+            "id": 1,
+            "title": "Developers",
+            "image": "https://envri.eu/wp-content/uploads/2016/08/software-developer-copy.jpg",
+            "body": "Open position at ICOS Carbon Portal for a Software Developer"
+        },
+        {
+            "id": 2,
+            "title": "IT HelpDesk",
+            "image": "https://www.gblnet.co.uk/wp-content/uploads/2018/04/IT_Helpdesk_support.jpg",
+            "body": "Globalnet IT Overflow Helpdesk - Globalnet IT Business"
+        },
+        {
+            "id": 3,
+            "title": "Designer",
+            "image": "https://ciklopea.com/wp-content/uploads/2018/05/graphic-designer-800x533.jpg",
+            "body": "UX Collective As a designer, what business value do you bring"
+        }
+    ],
+    "informations": [
+        {
+            "id":1,
+            "title": "IT HelpDesk",
+            "body": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        },
+        {
+            "id":2,
+            "title": "Developers",
+            "body": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        },
+        {
+            "id":3,
+            "title": "IT HelpDesk",
+            "body": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        }
+    ]
+}
